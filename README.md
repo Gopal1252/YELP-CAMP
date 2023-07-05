@@ -1,5 +1,7 @@
 # YELP-CAMP
 YelpCamp is a full-stack web application that simulates a campground review platform. It allows users to browse campgrounds, leave reviews, and engage in discussions. This application was built using Node.js, Express.js, MongoDB for the database, and incorporates user authentication with Passport.js. The frontend was developed using HTML, CSS, and Bootstrap.
+
+Credits: Colt-Steele. This project originates from Colt' web development bootcamp and later improved/refactored.
 # Features
 1. User Registration and Authentication: Users can create accounts, log in, and manage their profiles to interact with the website's functionalities.
 2. Campground Listings: The application displays a list of campgrounds, including details such as name, description, location, amenities, and average ratings.
