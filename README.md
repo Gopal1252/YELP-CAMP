@@ -30,7 +30,7 @@ Credits: Colt-Steele. This project originates from Colt' web development bootcam
 <img width="1470" alt="Screenshot 2023-11-22 at 10 58 32 PM" src="https://github.com/Gopal1252/YELP-CAMP/assets/93401686/99bd35fe-c874-4299-9b7c-6dcf3e5a1f22">
 <img width="1470" alt="Screenshot 2023-11-22 at 10 58 43 PM" src="https://github.com/Gopal1252/YELP-CAMP/assets/93401686/9ea76291-727c-4ced-bb75-87f0d6c93d51">
 <img width="1470" alt="Screenshot 2023-11-22 at 10 58 53 PM" src="https://github.com/Gopal1252/YELP-CAMP/assets/93401686/0d03b0ae-670d-4f8b-b13e-f0ae1ceafb22">
-![Uploading Screenshot 2023-11-22 at 10.59.22 PM.png…]()
+<img width="1470" alt="Screenshot 2023-11-22 at 10 59 22 PM" src="https://github.com/Gopal1252/YELP-CAMP/assets/93401686/1dcb827f-0f16-4886-8b40-e74f17065665">
 
 
 # Demo
