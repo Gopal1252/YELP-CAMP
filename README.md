@@ -1,4 +1,4 @@
-# YELP-CAMP
+<img width="1470" alt="Screenshot 2023-11-22 at 10 58 32 PM" src="https://github.com/Gopal1252/YELP-CAMP/assets/93401686/9fa96e6d-b5d7-4e7e-aa0e-76d74603275c"># YELP-CAMP
 YelpCamp is a full-stack web application that simulates a campground review platform. It allows users to browse campgrounds, leave reviews, and engage in discussions. This application was built using Node.js, Express.js, MongoDB for the database, and incorporates user authentication with Passport.js. The frontend was developed using HTML, CSS, and Bootstrap.
 
 Credits: Colt-Steele. This project originates from Colt' web development bootcamp and later improved/refactored.
@@ -26,6 +26,13 @@ Credits: Colt-Steele. This project originates from Colt' web development bootcam
 4. Set up the MongoDB connection by updating the .env file with your database credentials.
 5. Start the application: npm start
 6. Access the application in your browser at http://localhost:3000
+
+# Interfaces
+<img width="1470" alt="Screenshot 2023-11-22 at 10 58 32 PM" src="https://github.com/Gopal1252/YELP-CAMP/assets/93401686/99bd35fe-c874-4299-9b7c-6dcf3e5a1f22">
+<img width="1470" alt="Screenshot 2023-11-22 at 10 58 43 PM" src="https://github.com/Gopal1252/YELP-CAMP/assets/93401686/9ea76291-727c-4ced-bb75-87f0d6c93d51">
+<img width="1470" alt="Screenshot 2023-11-22 at 10 58 53 PM" src="https://github.com/Gopal1252/YELP-CAMP/assets/93401686/0d03b0ae-670d-4f8b-b13e-f0ae1ceafb22">
+![Uploading Screenshot 2023-11-22 at 10.59.22 PM.png…]()
+
 
 # Demo
 A live demo of the YelpCamp application can be accessed at https://yelpcamp-pgy0.onrender.com/campgrounds.
